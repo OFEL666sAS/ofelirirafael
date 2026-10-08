@@ -1,0 +1,10 @@
+project_id = "ofel-store"
+
+[functions.ff-player-lookup]
+verify_jwt = false
+
+[functions.track-event]
+verify_jwt = false
+
+[functions.save-customer]
+verify_jwt = false
